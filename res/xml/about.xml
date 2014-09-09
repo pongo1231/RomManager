@@ -1,0 +1,13 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <Preference
+        android:summary="@string/visit_xda_thread"
+        android:title="@string/app_author" >
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="http://www.google.com" />
+    </Preference>
+    <Preference android:title="@string/version" android:summary="1.0">
+    </Preference>
+	
+</PreferenceScreen>

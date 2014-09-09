@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="hello">Hello World, MainActivity!</string>
-    <string name="app_name">MTest</string>
+	<string name="app_version">1.0</string>
+    <string name="app_name">ROM Manager</string>
+    <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
+	<string name="no_internet">No Internet Connection</string>
+	<string name="no_internet_missing_files">This application needs a internet connection to download the needed files.</string>
+	<string name="no_internet_refresh">Please activate internet to refresh!</string>
+	<string name="ok">Ok</string>
+	<string name="by">by</string>
+	<string name="desc_title">[b]Description:[/b]\n\n</string>
+	<string name="rom_not_available">The ROM isn\'t available anymore!</string>
+	<string name="getting_data">Getting data...</string>
+	<string name="version">Version</string>
+	<string name="parsing_failed">Failed parsing files!</string>
+	<string name="parsing_failed_desc">Failed parsing the files. Please contact the developer!</string>
+	<string name="app_author">App by Android-fany</string>
+	<string name="visit_xda_thread">Visit Xda Thread</string>
+	<string name="something_went_wrong">Something went wrong while parsing the data. Please contact the developer!</string>
+	<string name="unknown_desc">No Description</string>
+	<string name="unknown_rom">Unknown ROM</string>
+	<string name="unknown_version">No Version</string>
+	<string name="unknown_author">Unknown Author</string>
+	<string name="select_rom">Please select a ROM from the drawer</string>
+	<string name="visit_thread">Visit Thread</string>
+	<string name="download">Download</string>
+	<string name="new_string">New!</string>
+	<string name="refresh">Refresh</string>
+	<string name="about">About</string>
+	<string name="update_title">Update Available!</string>
+	<string name="update_desc">Would you like to update the application?</string>
+	<string name="yes">Yes</string>
+	<string name="later">Later</string>
+	<string name="update_error">Error finding the download URL. Please contact the developer!</string>
+	<string name="view_changelog">View Changelog</string>
+	<string name="unknown_changelog">Unknown Description</string>
+	<string name="changelog_bbcode">[b]Changelog[/b]</string>
 
 </resources>
